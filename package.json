@@ -1,0 +1,20 @@
+{
+  "name": "generate-skeleton-h5",
+  "version": "1.0.0",
+  "description": "自动生成h5骨架屏",
+  "main": "generateSkeleton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HFQ12333/generate-skeleton-h5.git"
+  },
+  "keywords": [],
+  "author": "hufuqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HFQ12333/generate-skeleton-h5/issues"
+  },
+  "homepage": "https://github.com/HFQ12333/generate-skeleton-h5#readme"
+}
